@@ -19,7 +19,9 @@ Audio fingerprinting extract characteristics of a piece of audio content and sto
 Using fingerprints and matching algorithms, distorted versions of a single recording can be identified as the same music title. 
 
 So a spectrogram for a song will be transformed from the left figure into the right one:
-![image](https://user-images.githubusercontent.com/79766032/114278071-f4edd380-99fb-11eb-932b-1a18de690bd0.png)
+
+![image](https://user-images.githubusercontent.com/79766032/114278083-03d48600-99fc-11eb-9969-0a3a106780d9.png)
+
 
 
 
