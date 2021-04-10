@@ -20,6 +20,7 @@ Using fingerprints and matching algorithms, distorted versions of a single recor
 
 So a spectrogram for a song will be transformed from the left figure into the right one:
 
+![image](https://user-images.githubusercontent.com/79766032/114278107-22d31800-99fc-11eb-8b7c-9726f531da20.png)
 
 
 
