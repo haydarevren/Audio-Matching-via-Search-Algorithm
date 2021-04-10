@@ -43,6 +43,7 @@ We have developed a fast way of indexing constellation maps. Fingerprint hashes 
 Each hash can be packed into a 32-bit unsigned integer. Each hash is also associated with the time offset from the beginning of the respective file to its anchor point.
 
 Hash Generation:
+
 ![image](https://user-images.githubusercontent.com/79766032/114278184-94ab6180-99fc-11eb-97b9-48bf64d3aa7b.png)
 
 Database Construction:
